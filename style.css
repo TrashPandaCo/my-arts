@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.php {
+  margin: 50px;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px auto 0 auto;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 5.625rem;
+}
+
+h2{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin: 50px auto 0 auto;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  margin: 30px auto 30px auto;
+}
+
+h5{
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+}
+
+.cover {
+  width: 536px;
+  height: 300px;
+}
+
+.back-to-top {
+  color: #CD5D7D;
+}
+
+
+.top-container{
+  position: relative;
+  padding-top: 250px;
+  padding-bottom: 250px;
+  background-image: url('../images/homepage.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.middle-container{
+  margin: 100px auto 50px auto;
+}
+
+
+.profile{
+  margin: auto auto 50px auto;
+}
+
+.project {
+  width: 70%;
+  margin: auto auto 50px auto;
+}
+
+.card-group {
+  width: 70%;
+  margin: auto;
+}
+
+.homepage{
+  position: absolute;
+  bottom: 0;
+}
+
+
+.intro{
+  width: 70%;
+  margin: auto;
+}
+
+.skill-row{
+  width: 70%;
+  margin: 30px auto;
+  text-align: left;
+}
+
+a.inner-link {
+  color: #CD5D7D;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin:auto;
+  font-weight: bold;
+}
+
+.contact-message{
+  width: 70%;
+  margin: 40px auto 60px;
+}
+
+
+.copyright{
+  text-align: center;
+}
